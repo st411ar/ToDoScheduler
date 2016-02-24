@@ -1,0 +1,9 @@
+.add-btn {
+    background-image:url(../img/add.gif) !important;
+}
+.edit-btn {
+    background-image:url(../img/edit.gif) !important;
+}
+.delete-btn {
+    background-image:url(../img/delete.gif) !important;
+}
